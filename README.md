@@ -11,4 +11,4 @@ Projeto desenvolvido no Ignite Lab ReactJS - 2ª Edição.
     ![Tailwind](	https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
     ![GraphQL](https://img.shields.io/badge/graphql-000000?style=for-the-badge&logo=graphql)
     ![Vite](https://img.shields.io/badge/vite-ffffff?style=for-the-badge&logo=vite)
-* Deploy: [ignite-lab-02.vercel.app](https://lab-event-platform.vercel.app/)
+* Deploy: [lab-event-platform.vercel.app](https://lab-event-platform.vercel.app/)
